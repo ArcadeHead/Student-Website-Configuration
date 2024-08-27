@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>verifiedbiosfiles</identifier>
+  <mediatype>software</mediatype>
+  <collection>messmame</collection>
+  <collection>softwarecapsules</collection>
+  <creator>GThang161</creator>
+  <date>2020-03-04</date>
+  <description>Odroid Go-Advance (Batocera) All BIOS Files. Every File Has Had Been Verified VIA The MD5 List From Batocera. PrBoom Was Strange Their Image Had A File Included With Correct Name But Incorrect Size And MD5 So This Has Correct Size And MD5. The File "Extract To Share Partition" Includes All The Files In Correct Location So You Can Extract Directly Into Share Partition Or The Mounted Location /userdata. Batocera Primarily Uses RetroArch So These Bios Files Can Be Used In Most RetroArch/EmulationStation Builds Just Different Folder For Different Builds. Standalone RetroArch Uses System Folder.</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>3DO Amiga Atari ST 5200 7800 Atomiswave Dreamcast Game Boy Color Advance Dreamcast Gear Lynx MasterSystem Master System Mattel Intellivision MSX Naomi Neo Geo NeoGeo CD Nintendo Family Disk System Famicom 64 DC Pokemon Mini Odyssey 2 PC Engine PC-FX PrBoom Doom PS2 Playstation Play Station PSX PSONE Satellaview Sega 32x Saturn Sharp x68000 Sufami x Super Grafx SuperGrafx BIOS System ROM Verified MD5 Retroarch RetroPie RecalBox Batocera Emulator Complete</subject>
+  <title>Verified BIOS Files For Emulators (Batocera 5.26)</title>
+  <uploader>hardknoxni69a@gmail.com</uploader>
+  <publicdate>2020-03-05 02:21:39</publicdate>
+  <addeddate>2020-03-05 02:21:39</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20200305030349[/date][comment]checked for malware[/comment]</curation>
+  <year>2020</year>
+  <backup_location>ia907106_29</backup_location>
+</metadata>
