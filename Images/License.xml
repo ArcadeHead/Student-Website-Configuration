@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="53ec0e47-e9db-41e1-bcea-41dbd1412019">
+  <name>Tuning Solutions Ltd</name>
+  <email>tuning-solutions@hotmail.com</email>
+  <issued>2020-05-10T01:39:11.1815071-07:00</issued>
+  <forever>True</forever>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>AubFJ0bQ7chVk/R5bB2mFpu6udY=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>mMyqHzKnoWoDjSsuWxvRRMlRjKpxPFMJG7m3w/61WP4MNEk/tlwUs4/iBlb8LjlPBTp+6Od74ZbPsGwsOKiDFVBiyUf4SyE12IUkmfUO6Hs+Wp5ou35NXa0cp733njMq/I2Xti28V/d+9XG83U7XUOkb70el8niOwaBubnUino1OydKzw/50rYEM7ncnIRQx0gmwgW29kvcqfShq2xmy99V6gbzKHCD62Xgkf7/Dv1kxYav3z1eYGi8VLasM1+7yKCn0beMNZeFC1f7OQdTWRF2JF6g4GvVmoKstLhz5Q48iprZ7mIdxgiRlBg+MSbFvlvvaAwj2EI6cQzASXIEa+c1EM1nN6cdiWykDXaoUMA8IKvuhKhr2XreLSg2B91DNGwN7oLRJtkGK7hVDbQ7+uFdPW32HsC6R1MnCmsgx7sn2FKMVeoXMY5Lcbxilduaz6HkKT6qOQL/iKLeTTU+13vX4a1ZnJw6kGgacNYC0EdDNcOH3PJD27R61OllYY1MjMNaV5AO4NXtL7o28Mxd9r09WTjmTI82EnF6wjkZlhEqDFVIztups99QFsZudaRESuplz7i9pbxNip7eGKs6+asOD+K6EbvmANJs6OYEfuRPwlQp5Owj4g1n6f0h17+VPOrCMwL3Rpx1KmcGMX+HhaGUX06a7Mr2McS1UwF7jP6Vyvbnbmhi5bb/KFkrFNzn6L6kH9mC9YOKKepnWfdALrMqD5uniTFKqXQvQL5N2srHYVn20E33d7zHlBAUUad2sXGvCAAWHH6HZy6oB/He+JdloQOHvfjUNKi0/+59eINQZtG5yXpo395M21+8wgJpujIti0kaHdm816sfpDPvpjmKJlGrbwzTeyB0jxOcOcYb2x0yjUWDv9aoV1jNMxhyN5H0CBS39OaOgdgoX0Bptul4UGvxFmBt6M1ua/dCshWpNwPKQoFKFZn9v+hWTUD8vbtQlEZT3CcL93sqV+O2NYIBOSOcAUOrpBX3jMB/fyLIughgvPwpK/cU/IxgJ9q6+ErfDTzXA8yyvZxTyiKVUZQVwkXDwm92+k1hLD74Z4mjkXcaH7EaTQ2BfNot1G+v7RpEiCsSQYLaqVfkZ0HsJ2xS+YLOGkQxYhqCd6UGsbCLf1/Xnbn1m/hMgHq0K19UfBQ/nTS4kwEYFx7lfQrd0JTprjlNUo96uC+Dszga+Q0R/LTNm0uNcFYtH6ovwB6z25MVeyfB0Ild6SbK13rfLLwNUFLR45QeHGO5nxw09RHvlijIPoUB5bGc8nHHzEEYn96dU3jbXHaMyI3RSnFklvBuKPnU79T/PzaMH7nv/IJZPMuec4zLaQ+XxJxOu+KlRIXVoyqJAXm09tceb+ZTZFQ==</SignatureValue>
+  </Signature>
+</license>
